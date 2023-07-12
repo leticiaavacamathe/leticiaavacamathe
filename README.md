@@ -47,7 +47,6 @@ I'm a passionate about web development, and I thrive on daily studying to evolve
   
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 <!--
 **leticiaavacamathe/leticiaavacamathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
